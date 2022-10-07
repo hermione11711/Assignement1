@@ -1,6 +1,6 @@
 # Nutristead 
 
-***hello Sir, with my teamates Mathis Clotteau, Mayeul Boucher and I, Alexandre Berthault, we are going to introduce you our web project***
+***hello Sir, with my teamate Mathis Clotteau and I, Alexandre Berthault, we are going to introduce you our web project***
 
 
 __The website is a nutrition sales website that we are going to create from the ground up.__
